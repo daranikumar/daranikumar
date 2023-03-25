@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daranikumar
-- 👀 I’m interested in Erp
-- 🌱 I’m currently learning ErpNext
-- 💞️ I’m looking to collaborate on Erp
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science from IIT, Madras
+- 💞️ I’m looking to collaborate on Data Analysis using Python
 - 📫 How to reach me dharanikumar.ps@gmail.com
 
 <!---
